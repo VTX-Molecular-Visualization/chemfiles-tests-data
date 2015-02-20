@@ -1,6 +1,6 @@
-# Harp Test Cases
+# Chemharp Test Cases
 
-Test cases for the Harp chemistry IO library. These test cases are separated
+Test cases for the Chemharp chemistry IO library. These test files are separated
 from the main repository because they might be very big.
 
 ## Organisation
