@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule xmlns="http://www.xml-cml.org/schema" xmlns:cml="http://www.xml-cml.org/dict/cml" xmlns:units="http://www.xml-cml.org/units/units" xmlns:xsd="http://www.w3c.org/2001/XMLSchema" xmlns:iupac="http://www.iupac.org">
+  <crystal>
+    <scalar title="a" units="units:angstrom">3</scalar>
+    <scalar title="b" units="units:angstrom">3</scalar>
+    <scalar title="c" units="units:angstrom">3</scalar>
+    <scalar title="alpha" units="units:degree">90</scalar>
+    <scalar title="beta" units="units:degree">90</scalar>
+    <scalar title="gamma" units="units:degree">120</scalar>
+  </crystal>
+  <atomArray>
+    <atom id="a1" elementType="C" xFract="-1.77493" yFract="0.980333" zFract="6.66667e-05" />
+    <atom id="a2" elementType="C" xFract="-1.2651" yFract="0.930567" zFract="0" />
+    <atom id="a3" elementType="H" xFract="-1.17103" yFract="0.5877" zFract="0.0785333" />
+    <atom id="a4" elementType="H" xFract="-1.1293" yFract="1.0158" zFract="-0.326867" />
+    <atom id="a5" elementType="H" xFract="-1.116" yFract="1.15117" zFract="0.248333" />
+    <atom id="a6" elementType="H" xFract="-1.92403" yFract="0.759733" zFract="-0.248233" />
+    <atom id="a7" elementType="H" xFract="-1.91077" yFract="0.8951" zFract="0.326967" />
+    <atom id="a8" elementType="H" xFract="-1.869" yFract="1.3232" zFract="-0.0784667" />
+  </atomArray>
+  <bondArray>
+    <bond atomRefs2="a1 a2" order="1" />
+    <bond atomRefs2="a2 a3" order="1" />
+    <bond atomRefs2="a2 a4" order="1" />
+    <bond atomRefs2="a2 a5" order="1" />
+    <bond atomRefs2="a1 a6" order="1" />
+    <bond atomRefs2="a1 a7" order="1" />
+    <bond atomRefs2="a1 a8" order="1" />
+  </bondArray>
+</molecule>
