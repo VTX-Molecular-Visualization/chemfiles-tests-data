@@ -1,0 +1,15 @@
+1
+invalid="Non standard Properties" Properties=pos:R:3:species:S:1
+H 1.0 4.0 2.3
+1
+invalid="Missing specification in properties" Properties=species:S:1:pos:R:3:bad:R:
+H 1.0 4.0 2.3
+1
+invalid="Bad type in Properties" Properties=species:S:1:pos:R:3:bad:F:1
+H 1.0 4.0 2.3 55
+1
+invalid="Bad repeat in Properties" Properties=species:S:1:pos:R:3:bad:R:ff
+H 1.0 4.0 2.3 4
+1
+invalid="0 repeat in Properties" Properties=species:S:1:pos:R:3:bad:R:0
+H 1.0 4.0 2.3 4
