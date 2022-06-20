@@ -4,6 +4,7 @@
 - `nopbc.dcd`: simple file,, without unit cell information
 - `withpbc.dcd`: simple file,, with unit cell information
 
+
 - `4d-dynamic.dcd`: 4D dynamic example. This was produced by CHARMM, running the
     CHARMM regression test `test/c24test/dyn4dtest.inp`.
 - `fixed-atoms.dcd`: Fixed atoms example. This was produced by CHARMM, running
@@ -20,3 +21,14 @@
     where written as their cosine.
 - `triclinic-octane-direct.dcd`: result of reading and then writing back
     `triclinic-octane-vectors.dcd` with MDAnalysis
+
+
+- `mrmd_h2so4-64bit-le.dcd`: 64-bits fortran record markers, little endian DCD
+  file. This was produced by CHARMM compiled with `-frecord-marker=8`, running
+  the CHARMM regression test `c39test/mrmd_h2so4.inp`.
+- `mrmd_h2so4-32bit-be.dcd`: 32-bits fortran record markers, big endian DCD
+  file. This is the same file as `mrmd_h2so4-64bit-le.dcd`, created on a s390x
+  container.
+- `mrmd_h2so4-64bit-be.dcd`: 64-bits fortran record markers, big endian DCD
+  file. This is the same file as `mrmd_h2so4-64bit-le.dcd`, created on a s390x
+  container, by CHARMM compiled with `-frecord-marker=8`.
