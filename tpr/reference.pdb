@@ -1,0 +1,587 @@
+HEADER    
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+REMARK     THIS IS A SIMULATION BOX
+CRYST1   22.500   33.549   44.700  96.66  80.20 109.45 P 1           1
+ATOM      1  Li  LI  X   1      29.020  21.710  11.370  1.00  0.00      seg_Li  
+ATOM      2  Li  LI  X   2      19.500   1.700  12.850  1.00  0.00      seg_Li  
+ATOM      3  N   RSK X   3      23.800  20.200  37.060  1.00  0.00      seg_ N  
+ATOM      4  H1  RSK X   3      24.670  20.190  37.540  1.00  0.00      seg_ H  
+ATOM      5  H2  RSK X   3      23.070  20.500  37.670  1.00  0.00      seg_ H  
+ATOM      6  H3  RSK X   3      23.600  19.270  36.740  1.00  0.00      seg_ H  
+ATOM      7  CA  RSK X   3      23.890  21.120  35.880  1.00  0.00      seg_ C  
+ATOM      8  HA  RSK X   3      24.010  22.040  36.270  1.00  0.00      seg_ H  
+ATOM      9  CB  RSK X   3      25.150  20.840  35.040  1.00  0.00      seg_ C  
+ATOM     10  HB1 RSK X   3      24.900  20.910  34.070  1.00  0.00      seg_ H  
+ATOM     11  HB2 RSK X   3      25.840  21.530  35.260  1.00  0.00      seg_ H  
+ATOM     12  CG  RSK X   3      25.770  19.460  35.270  1.00  0.00      seg_ C  
+ATOM     13  HG1 RSK X   3      26.150  19.420  36.190  1.00  0.00      seg_ H  
+ATOM     14  HG2 RSK X   3      25.060  18.760  35.170  1.00  0.00      seg_ H  
+ATOM     15  CD  RSK X   3      26.880  19.160  34.270  1.00  0.00      seg_ C  
+ATOM     16  HD1 RSK X   3      26.590  19.470  33.360  1.00  0.00      seg_ H  
+ATOM     17  HD2 RSK X   3      27.700  19.650  34.550  1.00  0.00      seg_ H  
+ATOM     18  CE  RSK X   3      27.180  17.670  34.220  1.00  0.00      seg_ C  
+ATOM     19  HE1 RSK X   3      26.320  17.170  34.040  1.00  0.00      seg_ H  
+ATOM     20  HE2 RSK X   3      27.820  17.490  33.470  1.00  0.00      seg_ H  
+ATOM     21  NZ  RSK X   3      27.770  17.140  35.480  1.00  0.00      seg_ N  
+ATOM     22  HZ1 RSK X   3      27.940  16.160  35.380  1.00  0.00      seg_ H  
+ATOM     23  HZ2 RSK X   3      28.630  17.610  35.670  1.00  0.00      seg_ H  
+ATOM     24  HZ3 RSK X   3      27.140  17.290  36.240  1.00  0.00      seg_ H  
+ATOM     25  C   RSK X   3      22.570  21.180  35.060  1.00  0.00      seg_ C  
+ATOM     26  O   RSK X   3      21.730  22.050  35.360  1.00  0.00      seg_ O  
+ATOM     27  N   RSP X   4      22.370  20.290  34.050  1.00  0.00      seg_ N  
+ATOM     28  CA  RSP X   4      21.020  20.210  33.500  1.00  0.00      seg_ C  
+ATOM     29  HA  RSP X   4      20.590  21.110  33.530  1.00  0.00      seg_ H  
+ATOM     30  CB  RSP X   4      21.240  19.640  32.080  1.00  0.00      seg_ C  
+ATOM     31  HB1 RSP X   4      20.740  18.780  31.970  1.00  0.00      seg_ H  
+ATOM     32  HB2 RSP X   4      20.930  20.290  31.390  1.00  0.00      seg_ H  
+ATOM     33  CG  RSP X   4      22.720  19.390  31.940  1.00  0.00      seg_ C  
+ATOM     34  HG1 RSP X   4      22.890  18.520  31.500  1.00  0.00      seg_ H  
+ATOM     35  HG2 RSP X   4      23.140  20.130  31.410  1.00  0.00      seg_ H  
+ATOM     36  CD  RSP X   4      23.280  19.380  33.330  1.00  0.00      seg_ C  
+ATOM     37  HD1 RSP X   4      23.250  18.460  33.720  1.00  0.00      seg_ H  
+ATOM     38  HD2 RSP X   4      24.220  19.720  33.350  1.00  0.00      seg_ H  
+ATOM     39  C   RSP X   4      20.130  19.270  34.310  1.00  0.00      seg_ C  
+ATOM     40  O   RSP X   4      20.630  18.390  35.020  1.00  0.00      seg_ O  
+ATOM     41  N   RSR X   5      18.820  19.460  34.200  1.00  0.00      seg_ N  
+ATOM     42  H   RSR X   5      18.480  20.140  33.550  1.00  0.00      seg_ H  
+ATOM     43  CA  RSR X   5      17.850  18.710  34.990  1.00  0.00      seg_ C  
+ATOM     44  HA  RSR X   5      18.320  18.460  35.840  1.00  0.00      seg_ H  
+ATOM     45  CB  RSR X   5      16.640  19.600  35.290  1.00  0.00      seg_ C  
+ATOM     46  HB1 RSR X   5      16.970  20.510  35.550  1.00  0.00      seg_ H  
+ATOM     47  HB2 RSR X   5      16.090  19.670  34.460  1.00  0.00      seg_ H  
+ATOM     48  CG  RSR X   5      15.730  19.110  36.400  1.00  0.00      seg_ C  
+ATOM     49  HG1 RSR X   5      14.800  19.420  36.210  1.00  0.00      seg_ H  
+ATOM     50  HG2 RSR X   5      15.750  18.110  36.410  1.00  0.00      seg_ H  
+ATOM     51  CD  RSR X   5      16.150  19.620  37.780  1.00  0.00      seg_ C  
+ATOM     52  HD1 RSR X   5      17.030  19.220  38.050  1.00  0.00      seg_ H  
+ATOM     53  HD2 RSR X   5      16.240  20.620  37.760  1.00  0.00      seg_ H  
+ATOM     54  NE  RSR X   5      15.150  19.260  38.790  1.00  0.00      seg_ N  
+ATOM     55  HE  RSR X   5      14.300  18.860  38.460  1.00  0.00      seg_ H  
+ATOM     56  CZ  RSR X   5      15.290  19.440  40.100  1.00  0.00      seg_ C  
+ATOM     57  NH1 RSR X   5      16.390  19.970  40.610  1.00  0.00      seg_ N  
+ATOM     58 HH11 RSR X   5      17.140  20.250  40.000  1.00  0.00      seg_ H  
+ATOM     59 HH12 RSR X   5      16.480  20.090  41.590  1.00  0.00      seg_ H  
+ATOM     60  NH2 RSR X   5      14.310  19.070  40.910  1.00  0.00      seg_ N  
+ATOM     61 HH21 RSR X   5      13.480  18.660  40.540  1.00  0.00      seg_ H  
+ATOM     62 HH22 RSR X   5      14.410  19.190  41.900  1.00  0.00      seg_ H  
+ATOM     63  C   RSR X   5      17.420  17.420  34.280  1.00  0.00      seg_ C  
+ATOM     64  O1  RSR X   5      17.120  17.430  33.090  1.00  0.00      seg_ O  
+ATOM     65  O2  RSR X   5      17.370  16.340  34.870  1.00  0.00      seg_ O  
+ATOM     66  N   RSK X   6      28.890  17.870   8.840  1.00  0.00      seg_ N  
+ATOM     67  H1  RSK X   6      29.350  17.080   9.230  1.00  0.00      seg_ H  
+ATOM     68  H2  RSK X   6      27.990  17.980   9.270  1.00  0.00      seg_ H  
+ATOM     69  H3  RSK X   6      28.780  17.750   7.860  1.00  0.00      seg_ H  
+ATOM     70  CA  RSK X   6      29.700  19.100   9.110  1.00  0.00      seg_ C  
+ATOM     71  HA  RSK X   6      29.700  19.220  10.100  1.00  0.00      seg_ H  
+ATOM     72  CB  RSK X   6      31.180  18.900   8.700  1.00  0.00      seg_ C  
+ATOM     73  HB1 RSK X   6      31.500  19.740   8.260  1.00  0.00      seg_ H  
+ATOM     74  HB2 RSK X   6      31.710  18.720   9.520  1.00  0.00      seg_ H  
+ATOM     75  CG  RSK X   6      31.400  17.740   7.720  1.00  0.00      seg_ C  
+ATOM     76  HG1 RSK X   6      31.220  16.870   8.200  1.00  0.00      seg_ H  
+ATOM     77  HG2 RSK X   6      30.780  17.830   6.950  1.00  0.00      seg_ H  
+ATOM     78  CD  RSK X   6      32.830  17.710   7.200  1.00  0.00      seg_ C  
+ATOM     79  HD1 RSK X   6      33.120  18.640   6.990  1.00  0.00      seg_ H  
+ATOM     80  HD2 RSK X   6      33.430  17.320   7.900  1.00  0.00      seg_ H  
+ATOM     81  CE  RSK X   6      32.930  16.860   5.940  1.00  0.00      seg_ C  
+ATOM     82  HE1 RSK X   6      32.260  17.180   5.270  1.00  0.00      seg_ H  
+ATOM     83  HE2 RSK X   6      33.850  16.960   5.550  1.00  0.00      seg_ H  
+ATOM     84  NZ  RSK X   6      32.680  15.410   6.180  1.00  0.00      seg_ N  
+ATOM     85  HZ1 RSK X   6      32.760  14.900   5.320  1.00  0.00      seg_ H  
+ATOM     86  HZ2 RSK X   6      33.360  15.060   6.840  1.00  0.00      seg_ H  
+ATOM     87  HZ3 RSK X   6      31.760  15.280   6.560  1.00  0.00      seg_ H  
+ATOM     88  C   RSK X   6      29.050  20.390   8.540  1.00  0.00      seg_ C  
+ATOM     89  O   RSK X   6      28.300  21.050   9.270  1.00  0.00      seg_ O  
+ATOM     90  N   RSP X   7      29.330  20.770   7.260  1.00  0.00      seg_ N  
+ATOM     91  CA  RSP X   7      28.490  21.820   6.680  1.00  0.00      seg_ C  
+ATOM     92  HA  RSP X   7      28.220  22.460   7.400  1.00  0.00      seg_ H  
+ATOM     93  CB  RSP X   7      29.370  22.410   5.560  1.00  0.00      seg_ C  
+ATOM     94  HB1 RSP X   7      28.910  22.330   4.680  1.00  0.00      seg_ H  
+ATOM     95  HB2 RSP X   7      29.570  23.380   5.740  1.00  0.00      seg_ H  
+ATOM     96  CG  RSP X   7      30.650  21.620   5.550  1.00  0.00      seg_ C  
+ATOM     97  HG1 RSP X   7      30.930  21.410   4.620  1.00  0.00      seg_ H  
+ATOM     98  HG2 RSP X   7      31.380  22.130   6.010  1.00  0.00      seg_ H  
+ATOM     99  CD  RSP X   7      30.370  20.350   6.290  1.00  0.00      seg_ C  
+ATOM    100  HD1 RSP X   7      30.020  19.640   5.680  1.00  0.00      seg_ H  
+ATOM    101  HD2 RSP X   7      31.180  20.020   6.770  1.00  0.00      seg_ H  
+ATOM    102  C   RSP X   7      27.200  21.250   6.090  1.00  0.00      seg_ C  
+ATOM    103  O   RSP X   7      27.130  20.060   5.750  1.00  0.00      seg_ O  
+ATOM    104  N   RSR X   8      26.190  22.110   5.960  1.00  0.00      seg_ N  
+ATOM    105  H   RSR X   8      26.340  23.070   6.180  1.00  0.00      seg_ H  
+ATOM    106  CA  RSR X   8      24.860  21.690   5.510  1.00  0.00      seg_ C  
+ATOM    107  HA  RSR X   8      24.770  20.740   5.780  1.00  0.00      seg_ H  
+ATOM    108  CB  RSR X   8      23.800  22.550   6.200  1.00  0.00      seg_ C  
+ATOM    109  HB1 RSR X   8      24.050  22.650   7.170  1.00  0.00      seg_ H  
+ATOM    110  HB2 RSR X   8      23.800  23.460   5.770  1.00  0.00      seg_ H  
+ATOM    111  CG  RSR X   8      22.380  22.010   6.140  1.00  0.00      seg_ C  
+ATOM    112  HG1 RSR X   8      21.750  22.780   6.150  1.00  0.00      seg_ H  
+ATOM    113  HG2 RSR X   8      22.280  21.510   5.280  1.00  0.00      seg_ H  
+ATOM    114  CD  RSR X   8      22.050  21.080   7.300  1.00  0.00      seg_ C  
+ATOM    115  HD1 RSR X   8      22.590  20.240   7.240  1.00  0.00      seg_ H  
+ATOM    116  HD2 RSR X   8      22.250  21.530   8.170  1.00  0.00      seg_ H  
+ATOM    117  NE  RSR X   8      20.640  20.720   7.290  1.00  0.00      seg_ N  
+ATOM    118  HE  RSR X   8      20.050  21.190   6.630  1.00  0.00      seg_ H  
+ATOM    119  CZ  RSR X   8      20.060  19.820   8.080  1.00  0.00      seg_ C  
+ATOM    120  NH1 RSR X   8      20.770  19.150   8.980  1.00  0.00      seg_ N  
+ATOM    121 HH11 RSR X   8      21.750  19.320   9.070  1.00  0.00      seg_ H  
+ATOM    122 HH12 RSR X   8      20.330  18.470   9.560  1.00  0.00      seg_ H  
+ATOM    123  NH2 RSR X   8      18.760  19.580   7.960  1.00  0.00      seg_ N  
+ATOM    124 HH21 RSR X   8      18.220  20.080   7.280  1.00  0.00      seg_ H  
+ATOM    125 HH22 RSR X   8      18.320  18.900   8.550  1.00  0.00      seg_ H  
+ATOM    126  C   RSR X   8      24.740  21.780   3.990  1.00  0.00      seg_ C  
+ATOM    127  O1  RSR X   8      25.130  22.780   3.380  1.00  0.00      seg_ O  
+ATOM    128  O2  RSR X   8      24.250  20.870   3.320  1.00  0.00      seg_ O  
+ATOM    129  N   RSK X   9      24.260  17.560  27.610  1.00  0.00      seg_ N  
+ATOM    130  H1  RSK X   9      25.180  17.190  27.720  1.00  0.00      seg_ H  
+ATOM    131  H2  RSK X   9      23.620  16.810  27.420  1.00  0.00      seg_ H  
+ATOM    132  H3  RSK X   9      24.250  18.200  26.840  1.00  0.00      seg_ H  
+ATOM    133  CA  RSK X   9      23.840  18.270  28.860  1.00  0.00      seg_ C  
+ATOM    134  HA  RSK X   9      23.780  17.570  29.560  1.00  0.00      seg_ H  
+ATOM    135  CB  RSK X   9      24.930  19.270  29.320  1.00  0.00      seg_ C  
+ATOM    136  HB1 RSK X   9      24.480  20.100  29.640  1.00  0.00      seg_ H  
+ATOM    137  HB2 RSK X   9      25.430  18.850  30.080  1.00  0.00      seg_ H  
+ATOM    138  CG  RSK X   9      25.930  19.660  28.240  1.00  0.00      seg_ C  
+ATOM    139  HG1 RSK X   9      26.490  18.860  28.010  1.00  0.00      seg_ H  
+ATOM    140  HG2 RSK X   9      25.440  19.960  27.420  1.00  0.00      seg_ H  
+ATOM    141  CD  RSK X   9      26.850  20.780  28.690  1.00  0.00      seg_ C  
+ATOM    142  HD1 RSK X   9      26.310  21.460  29.190  1.00  0.00      seg_ H  
+ATOM    143  HD2 RSK X   9      27.550  20.410  29.300  1.00  0.00      seg_ H  
+ATOM    144  CE  RSK X   9      27.530  21.450  27.500  1.00  0.00      seg_ C  
+ATOM    145  HE1 RSK X   9      26.830  21.730  26.850  1.00  0.00      seg_ H  
+ATOM    146  HE2 RSK X   9      28.030  22.260  27.820  1.00  0.00      seg_ H  
+ATOM    147  NZ  RSK X   9      28.490  20.560  26.790  1.00  0.00      seg_ N  
+ATOM    148  HZ1 RSK X   9      28.900  21.050  26.030  1.00  0.00      seg_ H  
+ATOM    149  HZ2 RSK X   9      29.210  20.270  27.430  1.00  0.00      seg_ H  
+ATOM    150  HZ3 RSK X   9      28.010  19.750  26.450  1.00  0.00      seg_ H  
+ATOM    151  C   RSK X   9      22.420  18.880  28.760  1.00  0.00      seg_ C  
+ATOM    152  O   RSK X   9      21.450  18.200  29.140  1.00  0.00      seg_ O  
+ATOM    153  N   RSP X  10      22.270  20.140  28.270  1.00  0.00      seg_ N  
+ATOM    154  CA  RSP X  10      20.900  20.560  27.940  1.00  0.00      seg_ C  
+ATOM    155  HA  RSP X  10      20.260  20.140  28.580  1.00  0.00      seg_ H  
+ATOM    156  CB  RSP X  10      20.970  22.100  28.000  1.00  0.00      seg_ C  
+ATOM    157  HB1 RSP X  10      20.710  22.500  27.120  1.00  0.00      seg_ H  
+ATOM    158  HB2 RSP X  10      20.360  22.450  28.720  1.00  0.00      seg_ H  
+ATOM    159  CG  RSP X  10      22.400  22.460  28.330  1.00  0.00      seg_ C  
+ATOM    160  HG1 RSP X  10      22.700  23.230  27.770  1.00  0.00      seg_ H  
+ATOM    161  HG2 RSP X  10      22.490  22.690  29.300  1.00  0.00      seg_ H  
+ATOM    162  CD  RSP X  10      23.210  21.240  28.020  1.00  0.00      seg_ C  
+ATOM    163  HD1 RSP X  10      23.520  21.240  27.070  1.00  0.00      seg_ H  
+ATOM    164  HD2 RSP X  10      24.010  21.170  28.630  1.00  0.00      seg_ H  
+ATOM    165  C   RSP X  10      20.490  20.110  26.530  1.00  0.00      seg_ C  
+ATOM    166  O   RSP X  10      21.350  19.860  25.680  1.00  0.00      seg_ O  
+ATOM    167  N   RSR X  11      19.190  20.030  26.300  1.00  0.00      seg_ N  
+ATOM    168  H   RSR X  11      18.550  20.330  27.020  1.00  0.00      seg_ H  
+ATOM    169  CA  RSR X  11      18.640  19.520  25.050  1.00  0.00      seg_ C  
+ATOM    170  HA  RSR X  11      19.330  18.880  24.690  1.00  0.00      seg_ H  
+ATOM    171  CB  RSR X  11      17.320  18.790  25.320  1.00  0.00      seg_ C  
+ATOM    172  HB1 RSR X  11      17.440  18.220  26.140  1.00  0.00      seg_ H  
+ATOM    173  HB2 RSR X  11      16.620  19.470  25.490  1.00  0.00      seg_ H  
+ATOM    174  CG  RSR X  11      16.840  17.890  24.210  1.00  0.00      seg_ C  
+ATOM    175  HG1 RSR X  11      15.840  17.850  24.240  1.00  0.00      seg_ H  
+ATOM    176  HG2 RSR X  11      17.130  18.280  23.330  1.00  0.00      seg_ H  
+ATOM    177  CD  RSR X  11      17.380  16.460  24.320  1.00  0.00      seg_ C  
+ATOM    178  HD1 RSR X  11      18.370  16.460  24.160  1.00  0.00      seg_ H  
+ATOM    179  HD2 RSR X  11      17.190  16.090  25.220  1.00  0.00      seg_ H  
+ATOM    180  NE  RSR X  11      16.750  15.600  23.320  1.00  0.00      seg_ N  
+ATOM    181  HE  RSR X  11      15.990  15.980  22.790  1.00  0.00      seg_ H  
+ATOM    182  CZ  RSR X  11      17.100  14.340  23.060  1.00  0.00      seg_ C  
+ATOM    183  NH1 RSR X  11      18.100  13.760  23.710  1.00  0.00      seg_ N  
+ATOM    184 HH11 RSR X  11      18.600  14.270  24.420  1.00  0.00      seg_ H  
+ATOM    185 HH12 RSR X  11      18.350  12.820  23.510  1.00  0.00      seg_ H  
+ATOM    186  NH2 RSR X  11      16.450  13.660  22.120  1.00  0.00      seg_ N  
+ATOM    187 HH21 RSR X  11      15.700  14.090  21.620  1.00  0.00      seg_ H  
+ATOM    188 HH22 RSR X  11      16.710  12.720  21.920  1.00  0.00      seg_ H  
+ATOM    189  C   RSR X  11      18.450  20.640  24.030  1.00  0.00      seg_ C  
+ATOM    190  O1  RSR X  11      17.910  21.700  24.350  1.00  0.00      seg_ O  
+ATOM    191  O2  RSR X  11      18.820  20.530  22.850  1.00  0.00      seg_ O  
+ATOM    192  Li  LI  X  12      22.480   3.110  41.800  1.00  0.00      seg_Li  
+ATOM    193  Li  LI  X  13      20.780  -1.520  41.800  1.00  0.00      seg_Li  
+ATOM    194  C   THF X  14      11.820  -1.800  29.190  1.00  0.00      seg_ C  
+ATOM    195  H   THF X  14      12.710  -1.950  28.560  1.00  0.00      seg_ H  
+ATOM    196  H   THF X  14      11.190  -1.150  28.570  1.00  0.00      seg_ H  
+ATOM    197  C   THF X  14      12.040  -1.200  30.570  1.00  0.00      seg_ C  
+ATOM    198  H   THF X  14      12.260  -0.140  30.650  1.00  0.00      seg_ H  
+ATOM    199  H   THF X  14      12.820  -1.690  31.140  1.00  0.00      seg_ H  
+ATOM    200  C   THF X  14      10.700  -1.530  31.230  1.00  0.00      seg_ C  
+ATOM    201  H   THF X  14       9.950  -0.790  30.940  1.00  0.00      seg_ H  
+ATOM    202  H   THF X  14      10.780  -1.560  32.320  1.00  0.00      seg_ H  
+ATOM    203  C   THF X  14      10.250  -2.840  30.590  1.00  0.00      seg_ C  
+ATOM    204  H   THF X  14       9.220  -2.930  30.240  1.00  0.00      seg_ H  
+ATOM    205  H   THF X  14      10.460  -3.620  31.320  1.00  0.00      seg_ H  
+ATOM    206  O   THF X  14      11.240  -3.020  29.600  1.00  0.00      seg_ O  
+ATOM    207  C   THF X  15       0.480  -4.200  17.470  1.00  0.00      seg_ C  
+ATOM    208  H   THF X  15      -0.160  -4.530  16.650  1.00  0.00      seg_ H  
+ATOM    209  H   THF X  15       0.600  -5.100  18.080  1.00  0.00      seg_ H  
+ATOM    210  C   THF X  15      -0.030  -3.030  18.310  1.00  0.00      seg_ C  
+ATOM    211  H   THF X  15      -0.840  -3.210  19.020  1.00  0.00      seg_ H  
+ATOM    212  H   THF X  15      -0.360  -2.180  17.730  1.00  0.00      seg_ H  
+ATOM    213  C   THF X  15       1.250  -2.630  19.040  1.00  0.00      seg_ C  
+ATOM    214  H   THF X  15       1.410  -3.280  19.900  1.00  0.00      seg_ H  
+ATOM    215  H   THF X  15       1.220  -1.590  19.370  1.00  0.00      seg_ H  
+ATOM    216  C   THF X  15       2.380  -2.950  18.060  1.00  0.00      seg_ C  
+ATOM    217  H   THF X  15       3.260  -3.480  18.430  1.00  0.00      seg_ H  
+ATOM    218  H   THF X  15       2.680  -1.990  17.630  1.00  0.00      seg_ H  
+ATOM    219  O   THF X  15       1.680  -3.600  17.020  1.00  0.00      seg_ O  
+ATOM    220  C   THF X  16      30.530  15.270  27.080  1.00  0.00      seg_ C  
+ATOM    221  H   THF X  16      30.010  16.020  26.470  1.00  0.00      seg_ H  
+ATOM    222  H   THF X  16      31.570  15.360  26.750  1.00  0.00      seg_ H  
+ATOM    223  C   THF X  16      30.040  13.830  26.980  1.00  0.00      seg_ C  
+ATOM    224  H   THF X  16      30.280  13.250  26.090  1.00  0.00      seg_ H  
+ATOM    225  H   THF X  16      28.970  13.730  27.090  1.00  0.00      seg_ H  
+ATOM    226  C   THF X  16      30.700  13.230  28.220  1.00  0.00      seg_ C  
+ATOM    227  H   THF X  16      31.740  12.970  28.000  1.00  0.00      seg_ H  
+ATOM    228  H   THF X  16      30.170  12.340  28.570  1.00  0.00      seg_ H  
+ATOM    229  C   THF X  16      30.760  14.370  29.240  1.00  0.00      seg_ C  
+ATOM    230  H   THF X  16      31.690  14.540  29.770  1.00  0.00      seg_ H  
+ATOM    231  H   THF X  16      29.950  14.180  29.940  1.00  0.00      seg_ H  
+ATOM    232  O   THF X  16      30.300  15.460  28.470  1.00  0.00      seg_ O  
+ATOM    233  C   THF X  17      19.700   5.970  15.960  1.00  0.00      seg_ C  
+ATOM    234  H   THF X  17      20.480   5.860  15.200  1.00  0.00      seg_ H  
+ATOM    235  H   THF X  17      20.030   5.290  16.750  1.00  0.00      seg_ H  
+ATOM    236  C   THF X  17      18.270   5.660  15.520  1.00  0.00      seg_ C  
+ATOM    237  H   THF X  17      17.980   4.620  15.380  1.00  0.00      seg_ H  
+ATOM    238  H   THF X  17      17.980   6.160  14.610  1.00  0.00      seg_ H  
+ATOM    239  C   THF X  17      17.490   6.290  16.670  1.00  0.00      seg_ C  
+ATOM    240  H   THF X  17      17.460   5.610  17.530  1.00  0.00      seg_ H  
+ATOM    241  H   THF X  17      16.470   6.550  16.380  1.00  0.00      seg_ H  
+ATOM    242  C   THF X  17      18.340   7.480  17.130  1.00  0.00      seg_ C  
+ATOM    243  H   THF X  17      18.510   7.620  18.200  1.00  0.00      seg_ H  
+ATOM    244  H   THF X  17      17.860   8.360  16.720  1.00  0.00      seg_ H  
+ATOM    245  O   THF X  17      19.500   7.310  16.350  1.00  0.00      seg_ O  
+ATOM    246  C   THF X  18      11.450  -1.500  10.070  1.00  0.00      seg_ C  
+ATOM    247  H   THF X  18      11.050  -0.680   9.470  1.00  0.00      seg_ H  
+ATOM    248  H   THF X  18      11.590  -2.300   9.340  1.00  0.00      seg_ H  
+ATOM    249  C   THF X  18      10.600  -1.970  11.240  1.00  0.00      seg_ C  
+ATOM    250  H   THF X  18       9.700  -2.560  11.040  1.00  0.00      seg_ H  
+ATOM    251  H   THF X  18      10.250  -1.170  11.890  1.00  0.00      seg_ H  
+ATOM    252  C   THF X  18      11.620  -2.790  12.020  1.00  0.00      seg_ C  
+ATOM    253  H   THF X  18      11.710  -3.790  11.590  1.00  0.00      seg_ H  
+ATOM    254  H   THF X  18      11.360  -2.870  13.080  1.00  0.00      seg_ H  
+ATOM    255  C   THF X  18      12.960  -2.100  11.760  1.00  0.00      seg_ C  
+ATOM    256  H   THF X  18      13.820  -2.720  11.490  1.00  0.00      seg_ H  
+ATOM    257  H   THF X  18      13.180  -1.530  12.660  1.00  0.00      seg_ H  
+ATOM    258  O   THF X  18      12.600  -1.130  10.800  1.00  0.00      seg_ O  
+ATOM    259  C   THF X  19       5.940  20.050  16.750  1.00  0.00      seg_ C  
+ATOM    260  H   THF X  19       6.940  20.180  16.340  1.00  0.00      seg_ H  
+ATOM    261  H   THF X  19       5.300  20.590  16.040  1.00  0.00      seg_ H  
+ATOM    262  C   THF X  19       5.710  20.540  18.170  1.00  0.00      seg_ C  
+ATOM    263  H   THF X  19       5.630  21.610  18.360  1.00  0.00      seg_ H  
+ATOM    264  H   THF X  19       6.450  20.190  18.880  1.00  0.00      seg_ H  
+ATOM    265  C   THF X  19       4.390  19.840  18.500  1.00  0.00      seg_ C  
+ATOM    266  H   THF X  19       3.550  20.400  18.080  1.00  0.00      seg_ H  
+ATOM    267  H   THF X  19       4.250  19.710  19.570  1.00  0.00      seg_ H  
+ATOM    268  C   THF X  19       4.430  18.530  17.700  1.00  0.00      seg_ C  
+ATOM    269  H   THF X  19       3.550  18.240  17.140  1.00  0.00      seg_ H  
+ATOM    270  H   THF X  19       4.680  17.750  18.430  1.00  0.00      seg_ H  
+ATOM    271  O   THF X  19       5.610  18.690  16.960  1.00  0.00      seg_ O  
+ATOM    272  C   THF X  20      30.350   6.660  18.530  1.00  0.00      seg_ C  
+ATOM    273  H   THF X  20      30.380   5.570  18.370  1.00  0.00      seg_ H  
+ATOM    274  H   THF X  20      29.630   6.770  19.330  1.00  0.00      seg_ H  
+ATOM    275  C   THF X  20      30.000   7.520  17.330  1.00  0.00      seg_ C  
+ATOM    276  H   THF X  20      28.960   7.570  17.000  1.00  0.00      seg_ H  
+ATOM    277  H   THF X  20      30.560   7.290  16.430  1.00  0.00      seg_ H  
+ATOM    278  C   THF X  20      30.460   8.890  17.830  1.00  0.00      seg_ C  
+ATOM    279  H   THF X  20      29.700   9.330  18.480  1.00  0.00      seg_ H  
+ATOM    280  H   THF X  20      30.680   9.580  17.010  1.00  0.00      seg_ H  
+ATOM    281  C   THF X  20      31.650   8.600  18.750  1.00  0.00      seg_ C  
+ATOM    282  H   THF X  20      31.700   9.090  19.710  1.00  0.00      seg_ H  
+ATOM    283  H   THF X  20      32.540   8.850  18.160  1.00  0.00      seg_ H  
+ATOM    284  O   THF X  20      31.640   7.190  18.780  1.00  0.00      seg_ O  
+ATOM    285  OW  SOL X  21      33.250   5.050  34.510  1.00  0.00      seg_ O  
+ATOM    286  HW1 SOL X  21      32.330   4.770  34.440  1.00  0.00      seg_ H  
+ATOM    287  HW2 SOL X  21      33.200   5.920  34.880  1.00  0.00      seg_ H  
+ATOM    288  OW  SOL X  22       0.040  -0.390   2.900  1.00  0.00      seg_ O  
+ATOM    289  HW1 SOL X  22      -0.780  -0.610   3.350  1.00  0.00      seg_ H  
+ATOM    290  HW2 SOL X  22       0.180  -1.120   2.310  1.00  0.00      seg_ H  
+ATOM    291  OW  SOL X  23      18.140  -6.050  17.640  1.00  0.00      seg_ O  
+ATOM    292  HW1 SOL X  23      18.100  -6.610  18.430  1.00  0.00      seg_ H  
+ATOM    293  HW2 SOL X  23      17.450  -5.420  17.770  1.00  0.00      seg_ H  
+CONECT    3    4    5    6    7
+CONECT    4    3
+CONECT    5    3
+CONECT    6    3
+CONECT    7    3    8    9   25
+CONECT    8    7
+CONECT    9    7   10   11   12
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9   13   14   15
+CONECT   13   12
+CONECT   14   12
+CONECT   15   12   16   17   18
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15   19   20   21
+CONECT   19   18
+CONECT   20   18
+CONECT   21   18   22   23   24
+CONECT   22   21
+CONECT   23   21
+CONECT   24   21
+CONECT   25    7   26   27
+CONECT   26   25
+CONECT   27   25   28   36
+CONECT   28   27   29   30   39
+CONECT   29   28
+CONECT   30   28   31   32   33
+CONECT   31   30
+CONECT   32   30
+CONECT   33   30   34   35   36
+CONECT   34   33
+CONECT   35   33
+CONECT   36   27   33   37   38
+CONECT   37   36
+CONECT   38   36
+CONECT   39   28   40   41
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   41
+CONECT   43   41   44   45   63
+CONECT   44   43
+CONECT   45   43   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45   49   50   51
+CONECT   49   48
+CONECT   50   48
+CONECT   51   48   52   53   54
+CONECT   52   51
+CONECT   53   51
+CONECT   54   51   55   56
+CONECT   55   54
+CONECT   56   54   57   60
+CONECT   57   56   58   59
+CONECT   58   57
+CONECT   59   57
+CONECT   60   56   61   62
+CONECT   61   60
+CONECT   62   60
+CONECT   63   43   64   65
+CONECT   64   63
+CONECT   65   63
+CONECT   66   67   68   69   70
+CONECT   67   66
+CONECT   68   66
+CONECT   69   66
+CONECT   70   66   71   72   88
+CONECT   71   70
+CONECT   72   70   73   74   75
+CONECT   73   72
+CONECT   74   72
+CONECT   75   72   76   77   78
+CONECT   76   75
+CONECT   77   75
+CONECT   78   75   79   80   81
+CONECT   79   78
+CONECT   80   78
+CONECT   81   78   82   83   84
+CONECT   82   81
+CONECT   83   81
+CONECT   84   81   85   86   87
+CONECT   85   84
+CONECT   86   84
+CONECT   87   84
+CONECT   88   70   89   90
+CONECT   89   88
+CONECT   90   88   91   99
+CONECT   91   90   92   93  102
+CONECT   92   91
+CONECT   93   91   94   95   96
+CONECT   94   93
+CONECT   95   93
+CONECT   96   93   97   98   99
+CONECT   97   96
+CONECT   98   96
+CONECT   99   90   96  100  101
+CONECT  100   99
+CONECT  101   99
+CONECT  102   91  103  104
+CONECT  103  102
+CONECT  104  102  105  106
+CONECT  105  104
+CONECT  106  104  107  108  126
+CONECT  107  106
+CONECT  108  106  109  110  111
+CONECT  109  108
+CONECT  110  108
+CONECT  111  108  112  113  114
+CONECT  112  111
+CONECT  113  111
+CONECT  114  111  115  116  117
+CONECT  115  114
+CONECT  116  114
+CONECT  117  114  118  119
+CONECT  118  117
+CONECT  119  117  120  123
+CONECT  120  119  121  122
+CONECT  121  120
+CONECT  122  120
+CONECT  123  119  124  125
+CONECT  124  123
+CONECT  125  123
+CONECT  126  106  127  128
+CONECT  127  126
+CONECT  128  126
+CONECT  129  130  131  132  133
+CONECT  130  129
+CONECT  131  129
+CONECT  132  129
+CONECT  133  129  134  135  151
+CONECT  134  133
+CONECT  135  133  136  137  138
+CONECT  136  135
+CONECT  137  135
+CONECT  138  135  139  140  141
+CONECT  139  138
+CONECT  140  138
+CONECT  141  138  142  143  144
+CONECT  142  141
+CONECT  143  141
+CONECT  144  141  145  146  147
+CONECT  145  144
+CONECT  146  144
+CONECT  147  144  148  149  150
+CONECT  148  147
+CONECT  149  147
+CONECT  150  147
+CONECT  151  133  152  153
+CONECT  152  151
+CONECT  153  151  154  162
+CONECT  154  153  155  156  165
+CONECT  155  154
+CONECT  156  154  157  158  159
+CONECT  157  156
+CONECT  158  156
+CONECT  159  156  160  161  162
+CONECT  160  159
+CONECT  161  159
+CONECT  162  153  159  163  164
+CONECT  163  162
+CONECT  164  162
+CONECT  165  154  166  167
+CONECT  166  165
+CONECT  167  165  168  169
+CONECT  168  167
+CONECT  169  167  170  171  189
+CONECT  170  169
+CONECT  171  169  172  173  174
+CONECT  172  171
+CONECT  173  171
+CONECT  174  171  175  176  177
+CONECT  175  174
+CONECT  176  174
+CONECT  177  174  178  179  180
+CONECT  178  177
+CONECT  179  177
+CONECT  180  177  181  182
+CONECT  181  180
+CONECT  182  180  183  186
+CONECT  183  182  184  185
+CONECT  184  183
+CONECT  185  183
+CONECT  186  182  187  188
+CONECT  187  186
+CONECT  188  186
+CONECT  189  169  190  191
+CONECT  190  189
+CONECT  191  189
+CONECT  194  195  196  197  206
+CONECT  195  194
+CONECT  196  194
+CONECT  197  194  198  199  200
+CONECT  198  197
+CONECT  199  197
+CONECT  200  197  201  202  203
+CONECT  201  200
+CONECT  202  200
+CONECT  203  200  204  205  206
+CONECT  204  203
+CONECT  205  203
+CONECT  206  194  203
+CONECT  207  208  209  210  219
+CONECT  208  207
+CONECT  209  207
+CONECT  210  207  211  212  213
+CONECT  211  210
+CONECT  212  210
+CONECT  213  210  214  215  216
+CONECT  214  213
+CONECT  215  213
+CONECT  216  213  217  218  219
+CONECT  217  216
+CONECT  218  216
+CONECT  219  207  216
+CONECT  220  221  222  223  232
+CONECT  221  220
+CONECT  222  220
+CONECT  223  220  224  225  226
+CONECT  224  223
+CONECT  225  223
+CONECT  226  223  227  228  229
+CONECT  227  226
+CONECT  228  226
+CONECT  229  226  230  231  232
+CONECT  230  229
+CONECT  231  229
+CONECT  232  220  229
+CONECT  233  234  235  236  245
+CONECT  234  233
+CONECT  235  233
+CONECT  236  233  237  238  239
+CONECT  237  236
+CONECT  238  236
+CONECT  239  236  240  241  242
+CONECT  240  239
+CONECT  241  239
+CONECT  242  239  243  244  245
+CONECT  243  242
+CONECT  244  242
+CONECT  245  233  242
+CONECT  246  247  248  249  258
+CONECT  247  246
+CONECT  248  246
+CONECT  249  246  250  251  252
+CONECT  250  249
+CONECT  251  249
+CONECT  252  249  253  254  255
+CONECT  253  252
+CONECT  254  252
+CONECT  255  252  256  257  258
+CONECT  256  255
+CONECT  257  255
+CONECT  258  246  255
+CONECT  259  260  261  262  271
+CONECT  260  259
+CONECT  261  259
+CONECT  262  259  263  264  265
+CONECT  263  262
+CONECT  264  262
+CONECT  265  262  266  267  268
+CONECT  266  265
+CONECT  267  265
+CONECT  268  265  269  270  271
+CONECT  269  268
+CONECT  270  268
+CONECT  271  259  268
+CONECT  272  273  274  275  284
+CONECT  273  272
+CONECT  274  272
+CONECT  275  272  276  277  278
+CONECT  276  275
+CONECT  277  275
+CONECT  278  275  279  280  281
+CONECT  279  278
+CONECT  280  278
+CONECT  281  278  282  283  284
+CONECT  282  281
+CONECT  283  281
+CONECT  284  272  281
+CONECT  285  286  287
+CONECT  286  285
+CONECT  287  285
+CONECT  288  289  290
+CONECT  289  288
+CONECT  290  288
+CONECT  291  292  293
+CONECT  292  291
+CONECT  293  291
+END

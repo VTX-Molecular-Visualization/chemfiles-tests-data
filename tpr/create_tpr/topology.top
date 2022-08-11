@@ -1,0 +1,24 @@
+#include "oplsaa.ff/forcefield.itp"
+
+[ atomtypes ]
+; LI opls_406
+LI   3       6.941    1.0    A    2.12645e-01  7.64793e-02
+
+#include "ff/thf.itp"
+#include "ff/li.itp"
+#include "ff/protein.itp"
+#include "oplsaa.ff/tip3p.itp"
+
+[system]
+MySystemName
+
+[molecules]
+LI      2
+Protein 3
+LI      2
+THF     7
+SOL     3
+
+[intermolecular_interactions]
+[ bonds ]
+1   100   6   3.0   4.0

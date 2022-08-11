@@ -1,0 +1,6 @@
+[ moleculetype ]
+LI            3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass
+     1         LI      1    LI      Li      0       0.8       6.9410
